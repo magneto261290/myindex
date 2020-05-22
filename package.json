@@ -2,6 +2,13 @@
   "name": "ghost-on-heroku",
   "description": "Just a blogging platform on Heroku.",
   "license": "MIT",
+    "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server.js",
+    "local": "node server.js",
+    "start": "node server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/magneto261290/myindex.git"
