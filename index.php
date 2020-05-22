@@ -1,1 +1,1 @@
- <?php <script type="text/javascript" src="index.js"></script>; ?>
+ <?php include_once("index.html"); ?>
