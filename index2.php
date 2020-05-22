@@ -1,3 +1,5 @@
+<?php 
+echo '<script type="text/JavaScript"> 
 var authConfig = {
   siteName: 'G-Index', // WebSite Name
   version: '1.0', // VersionControl, do not modify manually
@@ -836,3 +838,6 @@ String.prototype.trim = function (char) {
   }
   return this.replace(/^\s+|\s+$/g, '');
 };
+	</script>' 
+; 
+?> 
