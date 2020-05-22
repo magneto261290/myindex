@@ -1,1 +1,1 @@
-?> <script type="text/javascript" src="index.js"></script> <?php
+ <?php <script type="text/javascript" src="index.js"></script> ?>
